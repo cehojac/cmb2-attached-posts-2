@@ -1,5 +1,5 @@
 {
-    "name": "cmb2/cmb2-attached-posts",
+    "name": "cehojac/attached-posts",
     "description": "Custom field for CMB2 for creating post relationships.",
     "license": "GPL-2.0+",
     "prefer-stable": true,
