@@ -19,11 +19,9 @@
         }
     ],
     "keywords": ["wordpress", "plugin", "metabox","post","relationship","attached"],
-    "homepage": "https://github.com/CMB2/CMB2",
     "type": "wordpress-plugin",
     "support": {
-        "issues": "https://github.com/CMB2/cmb2-attached-posts/issues",
-        "source": "https://github.com/CMB2/cmb2-attached-posts/"
+      
     },
     "require": {
         "php": ">5.2.4"
